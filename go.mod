@@ -13,6 +13,7 @@ require (
 	helm.sh/helm/v3 v3.7.0
 	k8s.io/apimachinery v0.22.1
 	k8s.io/client-go v0.22.1
+	github.com/robfig/cron/v3 v3.0.0
 )
 
 replace (

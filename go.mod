@@ -11,7 +11,8 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/robfig/cron/v3 v3.0.0
 	github.com/varstr/uaparser v0.0.0-20170929040706-6aabb7c4e98c
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	github.com/xuri/excelize/v2 v2.6.0 // indirect
+	golang.org/x/crypto v0.0.0-20220408190544-5352b0902921
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.7.0
 	k8s.io/apimachinery v0.22.1
